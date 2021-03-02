@@ -1,0 +1,11 @@
+{
+    "userdata": {
+        "id": "RUN"
+    },
+    "empresa": {
+        "id": "RUT empresa"
+    },
+    "titulo_modulo":{
+        "dashboard": "Escritorio CL"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "steps": {
+        "identification": "Identificación del paciente",
+        "specialty": "Selección especialidad o profesional",
+        "schedule": "Agenda y reserva"
+    },
+    "menu": {
+        "reserve": "Reservar hora",
+        "consult": "Consultar hora",
+        "confirm": "Confirmar hora",
+        "cancel": "Anular hora"
+    },
+    "gui": {
+        "next": "Siguiente",
+        "previous": "Anterior",
+        "finish": "Finalizar",
+        "success": "Éxito",
+        "sent-form": "Formulario enviado",
+        "choose-option": "Selecciona una opción",
+        "light-theme": "Claro",
+        "dark-theme": "Oscuro",
+        "live-demo-tag": "demo",
+        "live-demo-title": "Ver demo en vivo",
+        "info-popup-tag": "info",
+        "info-popup-popover-title": "Información de servicio",
+        "info-popup-title": "Mostrar información de servicio",
+        "click-for-more-info": "Click para más información",
+        "format-date-input":{
+            "formatSubmit": "dd/mm/yyyy",
+            "monthsFull": [ "Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre" ],
+            "monthsShort": [ "Jan", "Fev", "Mar", "Avr", "Mai", "Juin", "Juil", "Aou", "Sep", "Oct", "Nov", "Dec" ],
+            "weekdaysShort": [ "Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam" ],
+            "today": "aujourd\"hui",
+            "clear": "clair",
+            "close": "Fermer"
+        }
+    },
+    "identification": {
+        "card-title": "Identificación del paciente",
+        "card-description": "",
+        "select_tipo_identificacion": "tipo de identificación",
+        "select_nacionalidad": "nacionalidad",
+        "identificacion_usuario": "identificación",
+        "card": "carnet de identidad",
+        "adulto":"Adulto sin identificación",
+        "extranjeria":"Cédula de extranjería",
+        "menor":"Menor sin identificación",
+        "nit":"Número de identificacion tributaria NIT",
+        "unico":"Número único de identificación",
+        "especial":"Permiso especial",
+        "civil":"Registro civil",
+        "salvoconducto":"Salvoconducto",
+        "tarjeta_identidad":"Tarjeta de identidad",
+        "passport": "pasaporte"
+    },
+    "create_user": {
+        "card-title": "Crear paciente",
+        "nombres": "Nombres",
+        "apellidos": "Apellidos",
+        "email": "E-Mail",
+        "email-confirmation": "Confirmación E-Mail",
+        "phone": "Número de contacto",
+        "gender": "Genero",
+        "male": "Masculino",
+        "female": "Femenino",
+        "fecha_nacimiento": "Fecha de nacimiento"
+    },
+    "specialty": {
+        "card-title": "Selección de especialidad o profesional",
+        "card-description": "Búsqueda",
+        "nombres": "Nombres",
+        "apellidos": "Apellidos",
+        "id": "Identificación",
+        "email": "E-Mail",
+        "email-confirmation": "Confirmación E-Mail",
+        "phone": "Número de contacto",
+        "specialty-search":"búsqueda por especialidad",
+        "professional-search":"búsqueda por profesional"
+    },
+    "schedule": {
+        "card-title": "Agenda y reserva",
+        "card-description": ""
+    },
+    "my_appointments":{
+        "card-title":"Mis citas",
+        "card-description": "",
+        "select_tipo_identificacion": "tipo de identificación",
+        "select_nacionalidad": "nacionalidad",
+        "identificacion_usuario": "identificación",
+        "card": "carnet de identidad",
+        "passport": "pasaporte",
+        "fecha_nacimiento_consulta": "fecha de nacimiento",
+        "cancel": "Anular"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 <a href='http://inexoos.com/' target='_blank'>INEXOOS</a>, Todos los derechos reservados."
+    },
+    "errors": {
+        "no-services": "Debe seleccionar al menos 1 servicio antes de continuar",
+        "no-packages": "Debe seleccionar un paquete o plan para algunos de los servicios seleccionados"
+    }
+}

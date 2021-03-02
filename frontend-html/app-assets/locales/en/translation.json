@@ -1,0 +1,98 @@
+{
+    "header": {
+        "servicios-inexoos": "Inexoos Services",
+        "online-subscription": "Online Subscription"
+    },
+    "steps": {
+        "identification": "patient identification",
+        "specialty": "specialty or professional selection",
+        "schedule": "agenda and reservation"
+    },
+    "menu": {
+        "reserve": "reserve",
+        "consult": "consult",
+        "confirm": "confirm",
+        "cancel": "cancel"
+    },
+    "gui": {
+        "next": "Next",
+        "previous": "Previous",
+        "finish": "Finish",
+        "success": "Success",
+        "sent-form": "Form sent",
+        "choose-option": "Choose an option",
+        "light-theme": "Light",
+        "dark-theme": "Dark",
+        "live-demo-tag": "demo",
+        "live-demo-title": "View live demo",
+        "info-popup-tag": "info",
+        "info-popup-popover-title": "Service info",
+        "info-popup-title": "Show service info",
+        "click-for-more-info": "Click for more info",
+        "select": "select .."
+    },
+    "identification": {
+        "card-title": "patient identification",
+        "card-description": "",
+        "select_tipo_identificacion": "type of identification",
+        "select_nacionalidad": "nationality",
+        "identificacion_usuario": "Identification",
+        "card": "Identity card",
+        "adulto":"Adult without identification",
+        "extranjeria":"Foreigner ID",
+        "menor":"Minor without identification",
+        "nit":"Tax identification number NIT",
+        "unico":"Unique identification number",
+        "especial":"Special permission",
+        "civil":"Civil registration",
+        "salvoconducto":"Safe passage",
+        "tarjeta_identidad":"Identity card",
+        "passport": "Passport"
+    },
+    "create_user": {
+        "card-title": "Create patient",
+        "nombres": "First name",
+        "apellidos": "Last name",
+        "email": "Mail",
+        "email-confirmation": "confirm mail",
+        "phone": "contact number",
+        "gender": "Gender",
+        "male": "Male",
+        "female": "Female",
+        "fecha_nacimiento": "Date of birth"
+    },
+    "specialty": {
+        "card-title": "specialty or professional selection",
+        "card-description": "Search",
+        "nombres": "First Name",
+        "apellidos": "Last Name",
+        "id": "ID",
+        "email": "E-Mail",
+        "email-confirmation": "E-Mail Confirmation",
+        "phone": "Contact Number",
+        "specialty-search":"specialty search",
+        "professional-search":"professional search"
+    },
+    "schedule": {
+        "card-title": "agenda and reservation",
+        "card-description": ""
+    },
+    "my_appointments":{
+        "card-title":"my appointments",
+        "card-description": "",
+        "select_tipo_identificacion_consulta": "type of identification",
+        "select_nacionalidad_consulta": "nationality",
+        "identificacion_usuario_consulta": "identification",
+        "card_consulta": "identity card",
+        "passport_consulta": "passport",
+        "fecha_nacimiento_consulta": "Date of birth",
+        "cancel":"Cancel"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 <a href='http://inexoos.com/' target='_blank'>INEXOOS</a>, All rights reserved."
+    },
+    "errors": {
+        "no-services": "You have to select at least 1 service before moving to the next step",
+        "no-packages": "You have to choose a package or plan for some of the selected services"
+    }
+}

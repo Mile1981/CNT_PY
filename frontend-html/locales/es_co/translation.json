@@ -1,0 +1,11 @@
+{
+    "userdata": {
+        "id": "DNI"
+    },
+    "empresa": {
+        "id": "NIT"
+    },
+    "titulo_modulo":{
+        "dashboard": "Escritorio CO"
+    }
+}

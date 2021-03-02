@@ -1,0 +1,72 @@
+{
+    "header": {
+        "servicios-inexoos": "Inexoos Services",
+        "online-subscription": "Online Subscription"
+    },
+    "steps": {
+        "services": "Services",
+        "userdata": "User Data",
+        "empresa": "Billing info",
+        "summary-confirmation": "Summary and confirmation"
+    },
+    "gui": {
+        "next": "Next",
+        "previous": "Previous",
+        "finish": "Finish",
+        "success": "Success",
+        "sent-form": "Form sent",
+        "choose-option": "Choose an option",
+        "light-theme": "Light",
+        "dark-theme": "Dark",
+        "live-demo-tag": "demo",
+        "live-demo-title": "View live demo",
+        "info-popup-tag": "info",
+        "info-popup-popover-title": "Service info",
+        "info-popup-title": "Show service info",
+        "click-for-more-info": "Click for more info",
+        "html-click-for-more-info": "<span class=\"moreinfo\">$t(gui.click-for-more-info)...</span>",
+        "content": "{{content}}",
+        "html-click-for-more-info-content": "{{content}}$t(gui.html-click-for-more-info)"
+    },
+    "services": {
+        "card-title": "Services and plans",
+        "card-description": "Select the service or services you want to subscribe to",
+        "total": "Total Amount (monthly)"
+    },
+    "userdata": {
+        "card-title": "User Data",
+        "card-description": "Input the data for the user that will administrate the client's account",
+        "info": "Personal Information",
+        "nombres": "First Name",
+        "apellidos": "Last Name",
+        "id": "ID",
+        "email": "E-Mail",
+        "email-confirmation": "E-Mail Confirmation",
+        "phone": "Contact Number"
+    },
+    "titulo_modulo":{
+        "dashboard": "Dashboard"
+    },
+    "empresa": {
+        "card-title": "Billing Data",
+        "card-description": "Fill in the billing data for the institution subscribing to the selected services (for which the bill wil be generated)",
+        "info": "Business info",
+        "id": "TIN",
+        "razon": "Business Name",
+        "direccion": "Address",
+        "email": "E-Mail (billing)",
+        "email-confirmation": "E-Mail Confirmation",
+        "phone": "Contact Number"
+    },
+    "summary-confirmation": {
+        "card-title": "Summary and confirmation",
+        "card-description": "Verify your data and selected services. Once ready, press \"Finish\" to create the buy order"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 <a href='http://inexoos.com/' target='_blank'>INEXOOS</a>, All rights reserved."
+    },
+    "errors": {
+        "no-services": "You have to select at least 1 service before moving to the next step",
+        "no-packages": "You have to choose a package or plan for some of the selected services"
+    }
+}

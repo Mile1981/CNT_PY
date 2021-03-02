@@ -1,0 +1,72 @@
+{
+    "header": {
+        "servicios-inexoos": "Servicios Inexoos",
+        "online-subscription": "Suscripción en línea"
+    },
+    "steps": {
+        "services": "Servicios",
+        "userdata": "Datos usuario",
+        "empresa": "Datos facturación",
+        "summary-confirmation": "Resumen y confirmación"
+    },
+    "gui": {
+        "next": "Siguiente",
+        "previous": "Anterior",
+        "finish": "Finalizar",
+        "success": "Éxito",
+        "sent-form": "Formulario enviado",
+        "choose-option": "Selecciona una opción",
+        "light-theme": "Claro",
+        "dark-theme": "Oscuro",
+        "live-demo-tag": "demo",
+        "live-demo-title": "Ver demo en vivo",
+        "info-popup-tag": "info",
+        "info-popup-popover-title": "Información de servicio",
+        "info-popup-title": "Mostrar información de servicio",
+        "click-for-more-info": "Click para más información",
+        "html-click-for-more-info": "<span class=\"moreinfo\">$t(gui.click-for-more-info)...</span>",
+        "content": "{{content}}",
+        "html-click-for-more-info-content": "{{content}}$t(gui.html-click-for-more-info)"
+    },
+    "services": {
+        "card-title": "Datos de servicios y planes",
+        "card-description": "Seleccione el o los servicios",
+        "total": "Total de servicios (mensual)"
+    },
+    "userdata": {
+        "card-title": "Datos de usuario",
+        "card-description": "Ingresar los datos del usuario que será administrador de la cuenta del cliente",
+        "info": "Información personal",
+        "nombres": "Nombres",
+        "apellidos": "Apellidos",
+        "id": "Identificación",
+        "email": "E-Mail",
+        "email-confirmation": "Confirmación E-Mail",
+        "phone": "Número de contacto"
+    },
+    "titulo_modulo":{
+        "dashboard": "Escritorio"
+    },
+    "empresa": {
+        "card-title": "Datos de Facturación",
+        "card-description": "Ingresar los datos del cliente (empresa), a quien se le emitirá factura por los servicios contratados",
+        "info": "Información empresa",
+        "id": "Identificación empresa",
+        "razon": "Razón Social",
+        "direccion": "Dirección",
+        "email": "E-mail",
+        "email-confirmation": "Confirmación E-Mail",
+        "phone": "Número de contacto"
+    },
+    "summary-confirmation": {
+        "card-title": "Resumen y confirmación",
+        "card-description": "Verifique sus datos y los servicios seleccionados. Una vez listo, presione \"Finalizar\" para enviar la orden de compra"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 <a href='http://inexoos.com/' target='_blank'>INEXOOS</a>, Todos los derechos reservados."
+    },
+    "errors": {
+        "no-services": "Debe seleccionar al menos 1 servicio antes de continuar",
+        "no-packages": "Debe seleccionar un paquete o plan para algunos de los servicios seleccionados"
+    }
+}

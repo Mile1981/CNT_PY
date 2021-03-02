@@ -1,0 +1,30 @@
+{
+	"menu": {
+        "reserve": "Reservar cita",
+        "consult": "Consultar cita",
+        "confirm": "Confirmar cita",
+        "cancel": "Cancelar cita"
+    },
+	"identification": {
+        "card-title": "Identificación del paciente",
+        "card-description": "",
+        "select_tipo_identificacion": "tipo de identificación",
+        "select_nacionalidad": "nacionalidad",
+        "identificacion_usuario": "identificación",
+        "card": "Cédula ciudadanía",
+        "adulto":"Adulto sin identificación",
+        "extranjeria":"Cédula de extranjería",
+        "menor":"Menor sin identificación",
+        "nit":"Número de identificacion tributaria NIT",
+        "unico":"Número único de identificación",
+        "especial":"Permiso especial",
+        "civil":"Registro civil",
+        "salvoconducto":"Salvoconducto",
+        "tarjeta_identidad":"Tarjeta de identidad",
+        "passport": "pasaporte"
+    },
+
+    "my_appointments":{
+    	"cancel": "Cancelar cita"
+    }
+}
